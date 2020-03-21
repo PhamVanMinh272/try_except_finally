@@ -1,7 +1,4 @@
 # demo try except
-import sys
-
-
 def calculate(a, b):
     try:
         return a/b
